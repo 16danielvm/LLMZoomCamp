@@ -1,0 +1,12 @@
+Vector Search
+
+Por que es popular?
+Razon 1: Porque mas del 80% de los datos son no estructurados. Imagenes, videos, audios, etc
+Razon 2: LLM carece de memoria a largo plazo. Lo que da la habilidad de almacenar y recuperar informacion para los LLM
+
+Vector embeddings
+Tipos:
+word embeddings
+sentence embeddings
+document embeddings
+image embeddings
